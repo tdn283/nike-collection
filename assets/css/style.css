@@ -630,7 +630,8 @@
 
 /* Collect */
 .collect__container{
-    margin-top: calc(var(--header-brand-height) + var(--header-nav-height));
+    /* margin-top: calc(var(--header-brand-height) + var(--header-nav-height)); */
+    margin-top: 200px;
 }
 
 .collect__title{
